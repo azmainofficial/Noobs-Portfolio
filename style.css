@@ -21,7 +21,7 @@ html{
 }
 body{
     color: var(--text-color);
-    background: url(./Lorem.gif);
+    background: url(./mbb.gif);
     background-size: 100%;
     background-attachment: fixed;
 }
